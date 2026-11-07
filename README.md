@@ -19,9 +19,8 @@ Estudante de Redes de Computadores pela UFC, com conhecimentos em computação e
 
 | Projeto | Sobre | Stack |
 |---|---|---|
-| [Gestão financeira de salão] | Sistema full-stack para o financeiro de um salão de beleza | React · MUI · Python · Supabase |
-| [Helena Silva] | Landing page com montador de plano e envio pelo WhatsApp | React · Vite · MUI |
-| [Portfólio] | Meu portfólio, com dados separados dos componentes | React · MUI |
+| Gestão financeira de salão | Sistema full-stack para o financeiro de um salão de beleza | React · MUI · Python · Supabase |
+| Helena Silva Personal Trainer | Landing page com montador de plano e envio pelo WhatsApp | React · Vite · MUI |
 | [SOS Pet Banabuiú](https://github.com/Gessyca-Oliveira/SosPet) | Site de ONG de proteção animal, feito em equipe | React Native · Expo |
 
 ### 💼 Atualmente
